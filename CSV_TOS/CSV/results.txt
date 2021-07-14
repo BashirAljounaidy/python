@@ -1,0 +1,15 @@
+Company Symbol: FB_NOVWAP_ONLYGREENGRAY 
+Time frame: 1 min
+Duration: 30 Days
+total_profit = 1238.0 $
+total_trades = 111 trades
+win_trades= 56
+loss_trades= 54
+invalid_trades 1 it is equal 0.9 %
+batting avreage 0.5
+win_avg = 0.16 %
+loss_avg = -0.1 %
+win/loss ratio = 168.62 %
+win_loss_avg per trade = 11.15 $
+
+==========================================

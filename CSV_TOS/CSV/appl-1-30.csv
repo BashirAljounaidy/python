@@ -1,0 +1,85 @@
+Strategy report
+Symbol: AAPL
+Work Time: 5/7/21, 10:02 AM - 6/21/21, 2:57 PM
+
+
+Id;Strategy;Side;Amount;Price;Date/Time;Trade P/L;P/L;Position;
+1;ema_cross_vwap(Long);Buy to Open;10.0;$130.20;5/7/21, 10:02 AM;;$0.95;10.0;
+2;ema_cross_vwap(Exit);Sell to Close;-10.0;$131.04;5/7/21, 11:32 AM;$8.42;$8.42;0.0;
+3;ema_cross_vwap(Short);Sell to Open;-10.0;$130.46;5/7/21, 12:43 PM;;$9.02;-10.0;
+4;ema_cross_vwap(Exit);Buy to Close;10.0;$123.70;5/11/21, 9:31 AM;$67.60;$76.02;0.0;
+5;ema_cross_vwap(Long);Buy to Open;10.0;$124.34;5/11/21, 10:21 AM;;$75.12;10.0;
+6;ema_cross_vwap(Exit);Sell to Close;-10.0;$125.95;5/11/21, 3:53 PM;$16.10;$92.12;0.0;
+7;ema_cross_vwap(Short);Sell to Open;-10.0;$123.79;5/12/21, 10:01 AM;;$92.19;-10.0;
+8;ema_cross_vwap(Exit);Buy to Close;10.0;$124.85;5/13/21, 9:31 AM;($10.63);$81.49;0.0;
+9;ema_cross_vwap(Long);Buy to Open;10.0;$125.39;5/13/21, 9:58 AM;;$80.53;10.0;
+10;ema_cross_vwap(Exit);Sell to Close;-10.0;$125.72;5/13/21, 10:46 AM;$3.31;$84.80;0.0;
+11;ema_cross_vwap(Short);Sell to Open;-10.0;$125.26;5/13/21, 11:23 AM;;$84.30;-10.0;
+12;ema_cross_vwap(Exit);Buy to Close;10.0;$124.76;5/13/21, 1:55 PM;$5.02;$89.82;0.0;
+13;ema_cross_vwap(Long);Buy to Open;10.0;$125.44;5/13/21, 2:14 PM;;$89.72;10.0;
+14;ema_cross_vwap(Exit);Sell to Close;-10.0;$125.49;5/13/21, 2:41 PM;$0.50;$90.32;0.0;
+15;ema_cross_vwap(Short);Sell to Open;-10.0;$125.07;5/13/21, 3:59 PM;;$91.57;-10.0;
+16;ema_cross_vwap(Exit);Buy to Close;10.0;$126.51;5/14/21, 9:31 AM;($14.45);$75.87;0.0;
+17;ema_cross_vwap(Long);Buy to Open;10.0;$126.67;5/14/21, 10:17 AM;;$75.92;10.0;
+18;ema_cross_vwap(Exit);Sell to Close;-10.0;$126.67;5/17/21, 9:31 AM;$0.05;$75.92;0.0;
+19;ema_cross_vwap(Short);Sell to Open;-10.0;$126.18;5/17/21, 9:40 AM;;$76.12;-10.0;
+20;ema_cross_vwap(Exit);Buy to Close;10.0;$125.25;5/17/21, 1:41 PM;$9.30;$85.22;0.0;
+21;ema_cross_vwap(Long);Buy to Open;10.0;$126.02;5/17/21, 3:56 PM;;$86.07;10.0;
+22;ema_cross_vwap(Exit);Sell to Close;-10.0;$126.42;5/18/21, 9:31 AM;$4.00;$89.22;0.0;
+23;ema_cross_vwap(Short);Sell to Open;-10.0;$126.37;5/18/21, 10:04 AM;;$88.42;-10.0;
+24;ema_cross_vwap(Exit);Buy to Close;10.0;$123.44;5/19/21, 9:31 AM;$29.30;$118.52;0.0;
+25;ema_cross_vwap(Long);Buy to Open;10.0;$123.76;5/19/21, 10:20 AM;;$117.03;10.0;
+26;ema_cross_vwap(Exit);Sell to Close;-10.0;$127.81;5/21/21, 9:31 AM;$40.55;$159.07;0.0;
+27;ema_cross_vwap(Long);Buy to Open;10.0;$126.81;5/24/21, 9:38 AM;;$158.87;10.0;
+28;ema_cross_vwap(Exit);Sell to Close;-10.0;$127.79;5/24/21, 2:58 PM;$9.80;$168.88;0.0;
+29;ema_cross_vwap(Short);Sell to Open;-10.0;$127.04;5/24/21, 3:59 PM;;$168.18;-10.0;
+30;ema_cross_vwap(Exit);Buy to Close;10.0;$126.91;5/25/21, 3:48 PM;$1.30;$170.18;0.0;
+31;ema_cross_vwap(Short);Sell to Open;-10.0;$127.01;5/26/21, 9:49 AM;;$170.73;-10.0;
+32;ema_cross_vwap(Exit);Buy to Close;10.0;$126.36;5/27/21, 9:30 AM;$6.50;$176.68;0.0;
+33;ema_cross_vwap(Short);Sell to Open;-10.0;$126.95;5/27/21, 10:07 AM;;$176.18;-10.0;
+34;ema_cross_vwap(Exit);Buy to Close;10.0;$124.52;6/2/21, 9:31 AM;$24.30;$200.98;0.0;
+35;ema_cross_vwap(Short);Sell to Open;-10.0;$124.74;6/2/21, 11:19 AM;;$200.78;-10.0;
+36;ema_cross_vwap(Exit);Buy to Close;10.0;$124.26;6/2/21, 1:53 PM;$4.85;$205.83;0.0;
+37;ema_cross_vwap(Long);Buy to Open;10.0;$124.78;6/2/21, 3:19 PM;;$205.33;10.0;
+38;ema_cross_vwap(Exit);Sell to Close;-10.0;$124.63;6/3/21, 9:31 AM;($1.52);$204.30;0.0;
+39;ema_cross_vwap(Short);Sell to Open;-10.0;$123.99;6/3/21, 9:36 AM;;$204.34;-10.0;
+40;ema_cross_vwap(Exit);Buy to Close;10.0;$123.19;6/3/21, 10:43 AM;$8.00;$212.30;0.0;
+41;ema_cross_vwap(Long);Buy to Open;10.0;$123.94;6/3/21, 11:00 AM;;$211.50;10.0;
+42;ema_cross_vwap(Exit);Sell to Close;-10.0;$124.04;6/3/21, 11:11 AM;$1.00;$213.30;0.0;
+43;ema_cross_vwap(Short);Sell to Open;-10.0;$123.67;6/3/21, 11:40 AM;;$213.41;-10.0;
+44;ema_cross_vwap(Exit);Buy to Close;10.0;$123.60;6/3/21, 1:10 PM;$0.71;$214.01;0.0;
+45;ema_cross_vwap(Long);Buy to Open;10.0;$123.75;6/3/21, 1:28 PM;;$213.68;10.0;
+46;ema_cross_vwap(Exit);Sell to Close;-10.0;$123.91;6/3/21, 1:35 PM;$1.62;$215.63;0.0;
+47;ema_cross_vwap(Short);Sell to Open;-10.0;$123.64;6/3/21, 2:59 PM;;$215.63;-10.0;
+48;ema_cross_vwap(Exit);Buy to Close;10.0;$124.05;6/4/21, 9:31 AM;($4.05);$211.58;0.0;
+49;ema_cross_vwap(Long);Buy to Open;10.0;$124.39;6/4/21, 9:40 AM;;$212.63;10.0;
+50;ema_cross_vwap(Exit);Sell to Close;-10.0;$126.30;6/7/21, 9:31 AM;$19.15;$230.73;0.0;
+51;ema_cross_vwap(Long);Buy to Open;10.0;$125.34;6/7/21, 12:44 PM;;$230.52;10.0;
+52;ema_cross_vwap(Exit);Sell to Close;-10.0;$127.77;6/8/21, 9:40 AM;$24.30;$255.03;0.0;
+53;ema_cross_vwap(Short);Sell to Open;-10.0;$127.33;6/8/21, 9:56 AM;;$255.95;-10.0;
+54;ema_cross_vwap(Exit);Buy to Close;10.0;$126.74;6/9/21, 10:06 AM;$5.90;$260.93;0.0;
+55;ema_cross_vwap(Long);Buy to Open;10.0;$127.09;6/9/21, 10:44 AM;;$261.93;10.0;
+56;ema_cross_vwap(Exit);Sell to Close;-10.0;$127.21;6/9/21, 3:06 PM;$1.20;$262.13;0.0;
+57;ema_cross_vwap(Short);Sell to Open;-10.0;$126.98;6/9/21, 3:29 PM;;$262.68;-10.0;
+58;ema_cross_vwap(Exit);Buy to Close;10.0;$126.96;6/9/21, 3:40 PM;$0.20;$262.33;0.0;
+59;ema_cross_vwap(Long);Buy to Open;10.0;$127.16;6/9/21, 3:58 PM;;$262.48;10.0;
+60;ema_cross_vwap(Exit);Sell to Close;-10.0;$127.07;6/10/21, 9:31 AM;($0.90);$261.43;0.0;
+61;ema_cross_vwap(Short);Sell to Open;-10.0;$127.41;6/10/21, 10:22 AM;;$261.13;-10.0;
+62;ema_cross_vwap(Exit);Buy to Close;10.0;$126.27;6/11/21, 9:31 AM;$11.40;$272.83;0.0;
+63;ema_cross_vwap(Long);Buy to Open;10.0;$126.63;6/11/21, 9:42 AM;;$274.43;10.0;
+64;ema_cross_vwap(Exit);Sell to Close;-10.0;$130.00;6/15/21, 9:31 AM;$33.75;$306.58;0.0;
+65;ema_cross_vwap(Short);Sell to Open;-10.0;$129.97;6/15/21, 10:07 AM;;$306.58;-10.0;
+66;ema_cross_vwap(Exit);Buy to Close;10.0;$128.89;6/16/21, 2:53 PM;$10.75;$317.33;0.0;
+67;ema_cross_vwap(Long);Buy to Open;10.0;$129.98;6/16/21, 3:23 PM;;$317.03;10.0;
+68;ema_cross_vwap(Exit);Sell to Close;-10.0;$130.73;6/18/21, 9:31 AM;$7.50;$324.83;0.0;
+69;ema_cross_vwap(Short);Sell to Open;-10.0;$130.73;6/18/21, 9:54 AM;;$324.95;-10.0;
+70;ema_cross_vwap(Exit);Buy to Close;10.0;$130.80;6/21/21, 9:31 AM;($0.75);$324.08;0.0;
+71;ema_cross_vwap(Long);Buy to Open;10.0;$129.99;6/21/21, 9:57 AM;;$325.93;10.0;
+72;ema_cross_vwap(Exit);Sell to Close;-10.0;$132.03;6/21/21, 2:57 PM;$20.35;$344.43;0.0;
+
+
+Max trade P/L: $67.60;
+
+Total P/L: $344.43;
+
+Total order(s): 36;
