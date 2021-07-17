@@ -59,6 +59,7 @@ class Backtest:
         self.sma=int(clean_data(self.file)[1][3])
         self.ema=int(clean_data(self.file)[1][4])
         self.worktime=int(clean_data(self.file)[1][5])
+        self.smooth=int(clean_data(self.file)[1][6])
         self.total_profit=self.df['profit'].sum()
         self.total_trades=len(self.df[self.df['open_trade'] > 0])
         self.win_trades = len(self.df[self.df['profit'] > 0])
@@ -87,6 +88,7 @@ class Backtest:
         dic['sma']=[self.sma]
         dic['ema']=[self.ema]
         dic['worktime']=[self.worktime]
+        dic['smooth']=[self.smooth]
         dic['total_profit']=[self.total_profit]
         dic['total_trades']=[self.total_trades]
         dic['win_trades']=[self.win_trades]
